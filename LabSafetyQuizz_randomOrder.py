@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# Written in Python 3.5 in 2019 by gaenssle
+# Asks a series of questions on the correct lab handling
+# Teaches lab safety
+
 import random
 
 # Import file containing the questions and answeres
