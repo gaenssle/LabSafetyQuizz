@@ -1,0 +1,111 @@
+1_Q_You have to take a sample from your GMO bacterial cell culture. What do you do?
+a_A_I open the flask next to a flame.
+a_R_Like a boss! You place your flask next to the Bunsen burner and turn the flame on.
+b_A_I open the flask and remove the volume.
+b_R_You fool! Now your culture is contaminated with all sorts of stuff and you can start all over.
+c_A_I open the flask in the fume hood and remove the volume.
+c_R_You fool! You mistake the fume hood for a sterile biological safety cabinet your sample is now not only contaminated by also supplemented with all sorts of chemicals stuck on the table you lay your pipette tips on.
+
+2_Q_You forgot to disinfect the bench. What do you do?
+a_A_I disinfect the bench with ethanol after turning off the flame.
+a_R_Like a boss! After adding ethanol, you clean it up with a tissue and relight the flame.
+b_A_I do nothing, the flame is disinfecting enough on its own.
+b_R_You fool! Now your culture is contaminated and you can start all over.
+c_A_I disinfect the bench with ethanol while the flame is burning.
+c_R_You fool! The ethanol gets too close to the flame, catches fires and starts burning your sleeve. You are now on fire.
+
+3_Q_You don't remember the volume you need. What do you do?
+a_A_I look it up in my lab journal.
+a_R_Like a boss! You look at your lab journal without touching it.
+b_A_I guess.
+b_R_You fool! You guess wrong and you end up with far too little cells and have to start all over again.
+c_A_I look it up on my phone.
+c_R_You fool! Your phone is now contaminated!
+
+4_Q_Where should you place your lab journal afterwards?
+a_A_On a clean surface close by.
+a_R_Like a boss! You look up the volume and transfer it to a tube.
+b_A_As close to me as possible.
+b_R_You fool! You accidentally throw over the Bunsen burner and your lab journal catches fire. You try to extinguish it with the next best thing. Unfortunately, this is ethanol and now the whole lab is on fire.
+c_A_In the office.
+c_R_You fool! You bring your contaminated lab coat into the office and now your colleagues are getting sick because of food contamination!
+
+5_Q_Now, having your sample, you have to spin it down in the centrifuge. What do you do?
+a_A_I put a dummy with the same weight opposite to my sample, close the lid and click on start.
+a_R_Like a boss! After the spin is complete, you take your sample out.
+b_A_I put the sample in, close the lid and click on start.
+b_R_You fool! The rotator in the centrifuge starts to rock, and after a short while the rotator has enough speed to break loose, crash out of the centrifuge and into the wall of the room, covering the surrounding area in metal fragments.
+c_A_I put a dummy with the same volume opposite to my sample, close the lid and click on start.
+c_R_You fool! Volume is not always equal to weight. Your centrifuge starts making strange sounds, your rotor starts to rock and break loose of the spindle, causing complete damage to the centrifuge.
+
+6_Q_The cells in your sample are now stuck to the bottom of the tube. Where do you put the liquid part of the culture?
+a_A_I collect it in a bottle to sterilize it later.
+a_R_Like a boss! Your put your remaining sample in the freezer for next time.
+b_A_I pour it into the sink.
+b_R_You fool! The bacterial start growing in the waster water and evolve into potent pathogens � the beginning of the END!
+c_A_I pour it into a plastic tube and throw it into the black bin.
+c_R_You fool! This is only for chemical waste. Your nasty bacteria are not allowed to leave the lab alive!
+
+7_Q_The people in the lab call it a day and leave. What do you do?
+a_A_I call it a day as well and start cleaning up.
+a_R_Like a boss! You clean up the glass ware.
+b_A_I drop everything and leave the room as well.
+b_R_You fool! The next person coming in thinks the unlabeled beaker contains water and throws it into the sink. You now have a hole in your pipe.
+c_A_I continue with my experiments.
+c_R_You fool! You accidentally drench yourself in acid and nobody hears your screams before you slip and knock yourself out.
+
+8_Q_You have needles left on your bench. What do you do with them?
+a_A_I throw them into the yellow plastic box.
+a_R_Like a boss! You throw the needles in the needle box and continue.
+b_A_I clean them and store them for later use.
+b_R_You fool! The needles are issued for single-use and you spent more time on cleaning them then they are worth and still contaminate your next sample.
+c_A_I throw them into the bin for GMO contaminated stuff.
+c_R_You fool! The needles pierce the plastic of the trash bag and hurt the person replacing the waste.
+
+9_Q_From a previous experiment you still have a sample tube left in the liquid nitrogen. How do you get the tube out?
+a_A_I take it out using a tong.
+a_R_Like a boss! You remove the sample and put it in the -80�C freezer. Then you move towards the exit.
+b_A_I take it out using my hands.
+b_R_You fool! Now your fingers are frozen solid and in you panic you accidentally shatter them into a thousand pieces. You now have a couple of fingers less.
+c_A_I pour the liquid nitrogen into the sink until my sample tube falls out with it.
+c_R_You fool! The plastic pipe under the sink freezes and ruptures. You now have a hole in the pipe.
+
+10_Q_On your way out you come across two unlabeled beakers with clear solutions (one of them has a distinct smell). What do you do?
+a_A_I put both of them into the fume hood and mark them as unknown to warn others before you search for the owner.
+a_R_Like a boss! You will find the owner of the beaker and tell them to label their stuff and store it correctly.
+b_A_I assume its water and use it to fill up the water bath.
+b_R_You fool! It was concentrated sulfuric acid! Boiling droplets of acid fly everywhere and chemically burn your hands and face.
+c_A_I put them somewhere where they don't bother anyone.
+c_R_You fool! One of them is isopropyl alcohol. As you put it next to the window into the sun where it evaporates and explodes after ignition by a nearby flame.
+
+11_Q_You put down one of the beakers too hard and a drop of the solution flies towards your right eye. What do you do?
+a_A_I do nothing as I am wearing safety glasses.
+a_R_Like a boss! You clean your glasses with a tissue and continue.
+b_A_I cut it in half with my hands like a ninja.
+b_R_You fool! The drop turns out to be acid and burns into your skin and damages your hand. Now you have a hole in your hand.
+c_A_I do nothing as there is an eye washing station close by.
+c_R_You fool! Now you have to spend 15 min watering your eyes and might still be blind in the end.
+
+12_Q_What do you do with the tissue after use?
+a_A_I put it into the black bin under the bench.
+a_R_Like a boss! You close the lid and continue.
+b_A_I throw it on the ground.
+b_R_You fool! It is wet enough for you to slip on it and fall.
+c_A_I put it into the white bin next to the sink.
+c_R_You fool! This is for non-harmful waste and the papers towels in the bin start burning due to reaction with the conc. sulfuric acid.
+
+13_Q_You have now reached the door. What do you do?
+a_A_I take off my lab coat.
+a_R_Like a boss! You take your lab coat and hang it up next to the door.
+b_A_I leave.
+b_R_You fool! You contaminate everything around you with your dirty hands and lab coat.
+c_A_I wash my hands.
+c_R_You fool! You still have your dirty lab coat on.
+
+14_Q_What do you do next?
+a_A_I wash my hands.
+a_R_Like a boss! You wash and hands carefully, pick up your lab journal and leave.
+b_A_I leave.
+b_R_You fool! Your hands are still dirty and the sandwich you eat later will be sprinkled with chemicals making you sick and vomit.
+c_A_I pick up my bag from next to the door.
+c_R_You fool! Your bag is not supposed to be in the lab. There was a spillage and your bag is now covered in cell culture and you have to disinfect everything by autoclaving it.
