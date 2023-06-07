@@ -1,0 +1,55 @@
+/* styles.css */
+
+h1 {
+  background-color: darkgrey;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#question {
+  background-color: #66b3ff;
+  color: black;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+/* Custom radio button styles */
+.custom-radio input[type="radio"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid blue;
+  outline: none;
+  transition: border-color 0.3s ease-in-out;
+
+}
+#answers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+
+.custom-radio input[type="radio"]:checked {
+  background-color: blue;
+
+}
+
+.custom-radio input[type="radio"]:checked::before {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin: 3px;
+  border-radius: 50%;
+  background-color: white;
+}
+
