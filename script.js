@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
     question: "The cells in your sample are now stuck to the bottom of the tube. Where do you put the liquid part of the culture?",
     answers: [
       { option: "I pour it into the sink.", reaction: "You fool! The bacteria start growing in the wastewater and evolve into potent pathogens - the beginning of the END!", color: "#B90E0A" },
-      { option: "I pour it into a plastic tube and throw it into the black bin.", reaction: "You fool! This is only for chemical waste. Your nasty bacteria are not allowed to leave the lab alive!", color: "#B90E0A" },
+      { option: "I pour it into a plastic tube and throw it into the bin for chemical waste.", reaction: "You fool! This is only for chemical waste. Your nasty bacteria are not allowed to leave the lab alive!", color: "#B90E0A" },
        { option: "I collect it in a bottle to sterilize it later.", reaction: "Like a boss! You put your remaining sample in the freezer for next time.", color: "green" }
     ],
     correctAnswer: 2
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       { option: "I clean them and store them for later use.", reaction: "You fool! The needles are intended for single-use, and you spend more time cleaning them than they are worth and still contaminate your next sample.", color: "#B90E0A" },
       { option: "I throw them into the bin for GMO-contaminated stuff.", reaction: "You fool! The needles pierce the plastic of the trash bag and hurt the person replacing the waste.", color: "#B90E0A" },
-      { option: "I throw them into the yellow plastic box.", reaction: "Like a boss! You throw the needles in the needle box and continue.", color: "green" }
+      { option: "I throw them into the yellow plastic box for needles.", reaction: "Like a boss! You throw the needles in the needle box and continue.", color: "green" }
     ],
     correctAnswer: 2
   },
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
     correctAnswer: 1
   },
   {
-    question: "On your way out, you come across two unlabeled beakers with clear solutions (one of them has a distinct smell). What do you do?",
+    question: "On your way out, you come across two unlabeled beakers with clear solutions (one of them has a pungent smell). What do you do?",
     answers: [
       { option: "I assume it's water and use it to fill up the water bath.", reaction: "You fool! It was concentrated sulfuric acid! Boiling droplets of acid fly everywhere and chemically burn your hands and face.", color: "#B90E0A" },
       { option: "I put both of them into the fume hood and mark them as unknown to warn others before you search for the owner.", reaction: "Like a boss! You will find the owner of the beaker and tell them to label their stuff and store it correctly.", color: "green" },
@@ -105,8 +105,8 @@ document.addEventListener('DOMContentLoaded', function() {
     question: "What do you do with the tissue after use?",
     answers: [
       { option: "I throw it on the ground.", reaction: "You fool! It is wet enough for you to slip on it and fall.", color: "#B90E0A" },
-      { option: "I put it into the white bin next to the sink.", reaction: "You fool! This is for non-harmful waste, and the paper towels in the bin start burning due to a reaction with concentrated sulfuric acid.", color: "#B90E0A" },
-      { option: "I put it into the black bin under the bench.", reaction: "Like a boss! You close the lid and continue.", color: "green" }
+      { option: "I put it into the common waste bin next to the sink.", reaction: "You fool! This is for non-harmful waste, and the paper towels in the bin start burning due to a reaction with concentrated sulfuric acid.", color: "#B90E0A" },
+      { option: "I put it into the chemical waste bin under the bench.", reaction: "Like a boss! You close the lid and continue.", color: "green" }
     ],
     correctAnswer: 2
   },
