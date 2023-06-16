@@ -1,11 +1,13 @@
 /* styles.css */
 body {
-  margin: 0;
+  margin: auto;
   font-family: Cambria; Arial;
+  /* max-width: 800px; */
 }
 
 .main {
-  margin: 80px 20px 20px 20px;
+  margin: 80px auto 20px auto;
+  max-width: 800px;
 }
 
 .footer {
@@ -101,19 +103,22 @@ hr {
 }
 
 #submit, #next, #restart {
-  background-color: #B90E0A;
+  background-color: #1F456E;
   border-radius: 12px;
   padding: 6px 20px;
-  margin-top: 10px
-}
-
-#next {
-  background-color:  #151E3D;
+  margin-top: 10px;
   color: white;
 }
 
+#next {
+  background-color: #151E3D;
+}
+
 #restart {
-  margin: -20px 0px 0px 20px;
+  display: flex;
+  object-position: center;
+  margin: -20px auto 0px auto;
+  background-color: #B90E0A;
 }
 
 #reaction {
