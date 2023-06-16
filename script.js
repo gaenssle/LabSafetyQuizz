@@ -206,9 +206,10 @@ function goToNextQuestion() {
   } else {
     // No more questions, display the final score or completion message
     questionContainer.innerHTML = `<h2>Quiz Completed!</h2>
-      <p>Your final score is: ${calculateScore()} out of ${questions.length}</p>`;
-    answersContainer.innerHTML = '';
-    reactionContainer.innerHTML = ''; // Clear the reaction container
+      <p>You have escaped the lab!</p>`;
+    answersContainer.innerHTML = `<i class="fa-solid fa-face-laugh-beam"></i>`;
+    reactionContainer.innerHTML = `<i class="fa-solid fa-graduation-cap"></i>
+    <i class="fa-solid fa-champagne-glasses"></i>`; // Clear the reaction container
 
     // Hide the submit button and next button
     submitButton.style.display = 'none';
